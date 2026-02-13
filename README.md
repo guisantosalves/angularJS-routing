@@ -1,4 +1,4 @@
-# Conceitos Implementados
+# Conceitos a serem implementados
 Routing usando ngRoute, route-segment, view-segment
 </br>
 - [ ] Directives
